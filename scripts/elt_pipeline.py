@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 import os
 
-DB_CONNECTION_STRING = 'postgresql://postgres:admin123@localhost:5432/customer_analytics_db'
+DB_CONNECTION_STRING = 'postgresql://neondb_owner:npg_Ua1WefwBjS8i@ep-rapid-dawn-a1xln7hx-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require'
 
 RAW_DATA_DIR = os.path.join('data', 'raw')
 BANK_CHURN_CSV = os.path.join(RAW_DATA_DIR, 'Churn_Modelling.csv')

@@ -52,12 +52,12 @@ The clean data then feeds two parallel workflows:
 
 ### Live Web Application - Real-Time Churn Prediction
 
-![Web Application Screenshot]([PASTE YOUR WEB APP SCREENSHOT URL HERE])
+![Web Application Screenshot](showcase/web%20app.png)
 *The deployed Flask application, providing instant, real-time churn risk assessment via a clean user interface.*
 
 ### Executive Power BI Dashboard
 
-![Power BI Dashboard Screenshot]([PASTE YOUR POWER BI DASHBOARD SCREENSHOT URL HERE])
+![Power BI Dashboard Screenshot](showcase/dashboard-screenshot.png)
 *The final Power BI dashboard, visualizing key churn drivers and customer value for strategic decision-making.*
 
 ---
